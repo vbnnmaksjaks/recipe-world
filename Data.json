@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Takoyaki",
+        "cuisine": "japanese",
+        "type": "savory"
+
+    },
+
+    {
+        "name": "shawarma",
+        "cuisine": "middle eastern",
+        "type": "savory"
+
+    },
+
+    {
+        "name": "Butter chicken masala",
+        "cuisine": "Indian",
+        "type": "savory"
+
+    }
+
+]
